@@ -1,0 +1,6 @@
+key,type,encoding,value
+mfg_ns,namespace,,
+server,file,binary,main/cloud_cfg/server.txt
+server_cert,file,binary,main/cloud_cfg/server.cert
+client_cert,file,binary,main/cloud_cfg/client.cert
+client_key,file,binary,main/cloud_cfg/client.key
